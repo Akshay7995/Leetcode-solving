@@ -51,14 +51,17 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Array
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshay7995/Leetcode-solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
+## Sorting
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
