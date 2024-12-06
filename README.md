@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akshay7995/Leetcode-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Akshay7995/Leetcode-solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Akshay7995/Leetcode-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Array
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Akshay7995/Leetcode-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Akshay7995/Leetcode-solving/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Akshay7995/Leetcode-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Simulation
 |  |
 | ------- |
@@ -155,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Akshay7995/Leetcode-solving/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->
