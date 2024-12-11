@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Akshay7995/Leetcode-solving/tree/master/0031-next-permutation) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshay7995/Leetcode-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Akshay7995/Leetcode-solving/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Akshay7995/Leetcode-solving/tree/master/0031-next-permutation) |
 | [0392-is-subsequence](https://github.com/Akshay7995/Leetcode-solving/tree/master/0392-is-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Akshay7995/Leetcode-solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
