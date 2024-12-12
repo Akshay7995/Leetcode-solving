@@ -1,6 +1,6 @@
 class Solution {
     public long pickGifts(int[] gifts, int k) {
-        PriorityQueue<Integer> q = new PriorityQueue<>(Collections.reverseOrder());
+        PriorityQueue<Integer> q = new PriorityQueue<>((a,b)->b-a);
         for(int gift:gifts){
             q.offer(gift);
         }
