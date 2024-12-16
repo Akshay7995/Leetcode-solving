@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2868-continuous-subarrays](https://github.com/Akshay7995/Leetcode-solving/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Akshay7995/Leetcode-solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/3427-special-array-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Akshay7995/Leetcode-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Akshay7995/Leetcode-solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Akshay7995/Leetcode-solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Akshay7995/Leetcode-solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Akshay7995/Leetcode-solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Akshay7995/Leetcode-solving/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshay7995/Leetcode-solving/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Akshay7995/Leetcode-solving/tree/master/0050-powx-n) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
