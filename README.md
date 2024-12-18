@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Akshay7995/Leetcode-solving/tree/master/0652-find-duplicate-subtrees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/Akshay7995/Leetcode-solving/tree/master/1275-validate-binary-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Akshay7995/Leetcode-solving/tree/master/0652-find-duplicate-subtrees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/Akshay7995/Leetcode-solving/tree/master/1275-validate-binary-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0449-serialize-and-deserialize-bst](https://github.com/Akshay7995/Leetcode-solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akshay7995/Leetcode-solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/Akshay7995/Leetcode-solving/tree/master/1275-validate-binary-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Akshay7995/Leetcode-solving/tree/master/0652-find-duplicate-subtrees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/Akshay7995/Leetcode-solving/tree/master/1275-validate-binary-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -313,4 +317,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Akshay7995/Leetcode-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Union Find
+|  |
+| ------- |
+| [1275-validate-binary-tree-nodes](https://github.com/Akshay7995/Leetcode-solving/tree/master/1275-validate-binary-tree-nodes) |
+## Graph
+|  |
+| ------- |
+| [1275-validate-binary-tree-nodes](https://github.com/Akshay7995/Leetcode-solving/tree/master/1275-validate-binary-tree-nodes) |
 <!---LeetCode Topics End-->
