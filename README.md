@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0740-delete-and-earn](https://github.com/Akshay7995/Leetcode-solving/tree/master/0740-delete-and-earn) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Akshay7995/Leetcode-solving/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Akshay7995/Leetcode-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Akshay7995/Leetcode-solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Akshay7995/Leetcode-solving/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Akshay7995/Leetcode-solving/tree/master/2164-two-best-non-overlapping-events) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshay7995/Leetcode-solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akshay7995/Leetcode-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Akshay7995/Leetcode-solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Akshay7995/Leetcode-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Akshay7995/Leetcode-solving/tree/master/0257-binary-tree-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Akshay7995/Leetcode-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
