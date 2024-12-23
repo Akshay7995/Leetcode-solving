@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akshay7995/Leetcode-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0018-4sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Akshay7995/Leetcode-solving/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Akshay7995/Leetcode-solving/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Akshay7995/Leetcode-solving/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/0063-unique-paths-ii) |
