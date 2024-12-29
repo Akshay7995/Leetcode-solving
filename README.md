@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshay7995/Leetcode-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akshay7995/Leetcode-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshay7995/Leetcode-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akshay7995/Leetcode-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshay7995/Leetcode-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akshay7995/Leetcode-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/Akshay7995/Leetcode-solving/tree/master/0652-find-duplicate-subtrees) |
 | [0740-delete-and-earn](https://github.com/Akshay7995/Leetcode-solving/tree/master/0740-delete-and-earn) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshay7995/Leetcode-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akshay7995/Leetcode-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/Akshay7995/Leetcode-solving/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/0494-target-sum) |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshay7995/Leetcode-solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Akshay7995/Leetcode-solving/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshay7995/Leetcode-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akshay7995/Leetcode-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Linked List
 |  |
