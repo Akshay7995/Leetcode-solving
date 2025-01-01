@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Akshay7995/Leetcode-solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Akshay7995/Leetcode-solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Akshay7995/Leetcode-solving/tree/master/1917-maximum-average-pass-ratio) |
+| [2048-build-array-from-permutation](https://github.com/Akshay7995/Leetcode-solving/tree/master/2048-build-array-from-permutation) |
 | [2164-two-best-non-overlapping-events](https://github.com/Akshay7995/Leetcode-solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Akshay7995/Leetcode-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/Akshay7995/Leetcode-solving/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Akshay7995/Leetcode-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Akshay7995/Leetcode-solving/tree/master/2692-take-gifts-from-the-richest-pile) |
