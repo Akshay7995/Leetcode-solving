@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0740-delete-and-earn](https://github.com/Akshay7995/Leetcode-solving/tree/master/0740-delete-and-earn) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1256-rank-transform-of-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Akshay7995/Leetcode-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Akshay7995/Leetcode-solving/tree/master/2300-construct-string-with-repeat-limit) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/Akshay7995/Leetcode-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1025-minimum-cost-for-tickets](https://github.com/Akshay7995/Leetcode-solving/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Akshay7995/Leetcode-solving/tree/master/1063-best-sightseeing-pair) |
+| [1256-rank-transform-of-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Akshay7995/Leetcode-solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Akshay7995/Leetcode-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Akshay7995/Leetcode-solving/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Akshay7995/Leetcode-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1256-rank-transform-of-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Akshay7995/Leetcode-solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Akshay7995/Leetcode-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
