@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Akshay7995/Leetcode-solving/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Akshay7995/Leetcode-solving/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0494-target-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Akshay7995/Leetcode-solving/tree/master/0645-set-mismatch) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akshay7995/Leetcode-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Akshay7995/Leetcode-solving/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0215-kth-largest-element-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akshay7995/Leetcode-solving/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0645-set-mismatch](https://github.com/Akshay7995/Leetcode-solving/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Akshay7995/Leetcode-solving/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Akshay7995/Leetcode-solving/tree/master/0780-max-chunks-to-make-sorted) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Akshay7995/Leetcode-solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/Akshay7995/Leetcode-solving/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Akshay7995/Leetcode-solving/tree/master/2164-two-best-non-overlapping-events) |
@@ -473,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0645-set-mismatch](https://github.com/Akshay7995/Leetcode-solving/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Akshay7995/Leetcode-solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
