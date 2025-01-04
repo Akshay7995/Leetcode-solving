@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akshay7995/Leetcode-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Akshay7995/Leetcode-solving/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Akshay7995/Leetcode-solving/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0540-single-element-in-a-sorted-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/Akshay7995/Leetcode-solving/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akshay7995/Leetcode-solving/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0179-largest-number) |
 | [0645-set-mismatch](https://github.com/Akshay7995/Leetcode-solving/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Akshay7995/Leetcode-solving/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Akshay7995/Leetcode-solving/tree/master/0780-max-chunks-to-make-sorted) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/Akshay7995/Leetcode-solving/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Akshay7995/Leetcode-solving/tree/master/0392-is-subsequence) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0179-largest-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Akshay7995/Leetcode-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/Akshay7995/Leetcode-solving/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Akshay7995/Leetcode-solving/tree/master/2300-construct-string-with-repeat-limit) |
