@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1063-best-sightseeing-pair](https://github.com/Akshay7995/Leetcode-solving/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1524-string-matching-in-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Akshay7995/Leetcode-solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Akshay7995/Leetcode-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1580-shuffle-the-array) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0449-serialize-and-deserialize-bst](https://github.com/Akshay7995/Leetcode-solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akshay7995/Leetcode-solving/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Akshay7995/Leetcode-solving/tree/master/1250-longest-common-subsequence) |
+| [1524-string-matching-in-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Akshay7995/Leetcode-solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Akshay7995/Leetcode-solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String Matching
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Akshay7995/Leetcode-solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Design
 |  |
