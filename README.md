@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1580-shuffle-the-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Akshay7995/Leetcode-solving/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1651-shuffle-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/1651-shuffle-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Akshay7995/Leetcode-solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1791-richest-customer-wealth](https://github.com/Akshay7995/Leetcode-solving/tree/master/1791-richest-customer-wealth) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Akshay7995/Leetcode-solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1524-string-matching-in-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Akshay7995/Leetcode-solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1651-shuffle-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/1651-shuffle-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Akshay7995/Leetcode-solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshay7995/Leetcode-solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Akshay7995/Leetcode-solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
