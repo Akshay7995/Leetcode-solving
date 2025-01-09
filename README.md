@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Akshay7995/Leetcode-solving/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Akshay7995/Leetcode-solving/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/Akshay7995/Leetcode-solving/tree/master/0257-binary-tree-paths) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Akshay7995/Leetcode-solving/tree/master/0014-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
