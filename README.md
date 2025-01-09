@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1025-minimum-cost-for-tickets](https://github.com/Akshay7995/Leetcode-solving/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Akshay7995/Leetcode-solving/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1256-rank-transform-of-an-array) |
+| [1449-print-words-vertically](https://github.com/Akshay7995/Leetcode-solving/tree/master/1449-print-words-vertically) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Akshay7995/Leetcode-solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/Akshay7995/Leetcode-solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/Akshay7995/Leetcode-solving/tree/master/0657-robot-return-to-origin) |
+| [1449-print-words-vertically](https://github.com/Akshay7995/Leetcode-solving/tree/master/1449-print-words-vertically) |
 | [2048-build-array-from-permutation](https://github.com/Akshay7995/Leetcode-solving/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/2232-adding-spaces-to-a-string) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0878-shifting-letters](https://github.com/Akshay7995/Leetcode-solving/tree/master/0878-shifting-letters) |
 | [1205-defanging-an-ip-address](https://github.com/Akshay7995/Leetcode-solving/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/Akshay7995/Leetcode-solving/tree/master/1250-longest-common-subsequence) |
+| [1449-print-words-vertically](https://github.com/Akshay7995/Leetcode-solving/tree/master/1449-print-words-vertically) |
 | [1524-string-matching-in-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Akshay7995/Leetcode-solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
