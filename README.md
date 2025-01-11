@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0652-find-duplicate-subtrees](https://github.com/Akshay7995/Leetcode-solving/tree/master/0652-find-duplicate-subtrees) |
 | [0740-delete-and-earn](https://github.com/Akshay7995/Leetcode-solving/tree/master/0740-delete-and-earn) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0952-word-subsets](https://github.com/Akshay7995/Leetcode-solving/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/Akshay7995/Leetcode-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [0878-shifting-letters](https://github.com/Akshay7995/Leetcode-solving/tree/master/0878-shifting-letters) |
 | [0907-koko-eating-bananas](https://github.com/Akshay7995/Leetcode-solving/tree/master/0907-koko-eating-bananas) |
+| [0952-word-subsets](https://github.com/Akshay7995/Leetcode-solving/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Akshay7995/Leetcode-solving/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Akshay7995/Leetcode-solving/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1256-rank-transform-of-an-array) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/Akshay7995/Leetcode-solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/Akshay7995/Leetcode-solving/tree/master/0657-robot-return-to-origin) |
 | [0878-shifting-letters](https://github.com/Akshay7995/Leetcode-solving/tree/master/0878-shifting-letters) |
+| [0952-word-subsets](https://github.com/Akshay7995/Leetcode-solving/tree/master/0952-word-subsets) |
 | [1205-defanging-an-ip-address](https://github.com/Akshay7995/Leetcode-solving/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/Akshay7995/Leetcode-solving/tree/master/1250-longest-common-subsequence) |
 | [1449-print-words-vertically](https://github.com/Akshay7995/Leetcode-solving/tree/master/1449-print-words-vertically) |
