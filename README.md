@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshay7995/Leetcode-solving/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Akshay7995/Leetcode-solving/tree/master/0050-powx-n) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
