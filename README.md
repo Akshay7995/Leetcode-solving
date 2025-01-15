@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2300-construct-string-with-repeat-limit](https://github.com/Akshay7995/Leetcode-solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2329-maximum-product-after-k-increments](https://github.com/Akshay7995/Leetcode-solving/tree/master/2329-maximum-product-after-k-increments) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Akshay7995/Leetcode-solving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2509-minimize-xor](https://github.com/Akshay7995/Leetcode-solving/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
 |  |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Akshay7995/Leetcode-solving/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Akshay7995/Leetcode-solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/Akshay7995/Leetcode-solving/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Akshay7995/Leetcode-solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Quickselect
 |  |
