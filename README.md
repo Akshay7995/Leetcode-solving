@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Akshay7995/Leetcode-solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Akshay7995/Leetcode-solving/tree/master/2164-two-best-non-overlapping-events) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Akshay7995/Leetcode-solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Akshay7995/Leetcode-solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Akshay7995/Leetcode-solving/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Akshay7995/Leetcode-solving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2465-shifting-letters-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Akshay7995/Leetcode-solving/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Akshay7995/Leetcode-solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Akshay7995/Leetcode-solving/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Akshay7995/Leetcode-solving/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Akshay7995/Leetcode-solving/tree/master/0169-majority-element) |
 | [1502-construct-k-palindrome-strings](https://github.com/Akshay7995/Leetcode-solving/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Akshay7995/Leetcode-solving/tree/master/2300-construct-string-with-repeat-limit) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Akshay7995/Leetcode-solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Akshay7995/Leetcode-solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
