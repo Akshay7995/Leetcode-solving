@@ -1,12 +1,9 @@
 class Solution:
     def maximumWealth(self, accounts: List[List[int]]) -> int:
-        ans=[]
-        length = len(accounts)
-        for i in range(length):
-            innerlength = len(accounts[i])
+        arr = []
+        for i in range (0,len(accounts)):
             sum = 0
-            for j in range(innerlength):
-                sum +=accounts[i][j]
-            ans.append(sum)
-        ans.sort()
-        return ans[-1]
+            for j in range (0,len(accounts[i])):
+                sum += accounts[i][j]
+            arr.append(sum)
+        return max(arr)
