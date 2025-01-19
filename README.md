@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Akshay7995/Leetcode-solving/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/0407-trapping-rain-water-ii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Akshay7995/Leetcode-solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Akshay7995/Leetcode-solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akshay7995/Leetcode-solving/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/Akshay7995/Leetcode-solving/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0287-find-the-duplicate-number) |
+| [0407-trapping-rain-water-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Akshay7995/Leetcode-solving/tree/master/0645-set-mismatch) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0407-trapping-rain-water-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/0407-trapping-rain-water-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Akshay7995/Leetcode-solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshay7995/Leetcode-solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Akshay7995/Leetcode-solving/tree/master/1917-maximum-average-pass-ratio) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Akshay7995/Leetcode-solving/tree/master/0073-set-matrix-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshay7995/Leetcode-solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1791-richest-customer-wealth](https://github.com/Akshay7995/Leetcode-solving/tree/master/1791-richest-customer-wealth) |
 ## Backtracking
