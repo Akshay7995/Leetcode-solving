@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1275-validate-binary-tree-nodes](https://github.com/Akshay7995/Leetcode-solving/tree/master/1275-validate-binary-tree-nodes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshay7995/Leetcode-solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/Akshay7995/Leetcode-solving/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Akshay7995/Leetcode-solving/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1651-shuffle-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/1651-shuffle-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Akshay7995/Leetcode-solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1791-richest-customer-wealth](https://github.com/Akshay7995/Leetcode-solving/tree/master/1791-richest-customer-wealth) |
+| [1876-map-of-highest-peak](https://github.com/Akshay7995/Leetcode-solving/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Akshay7995/Leetcode-solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshay7995/Leetcode-solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Akshay7995/Leetcode-solving/tree/master/1917-maximum-average-pass-ratio) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshay7995/Leetcode-solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1791-richest-customer-wealth](https://github.com/Akshay7995/Leetcode-solving/tree/master/1791-richest-customer-wealth) |
+| [1876-map-of-highest-peak](https://github.com/Akshay7995/Leetcode-solving/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Akshay7995/Leetcode-solving/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Akshay7995/Leetcode-solving/tree/master/2685-first-completely-painted-row-or-column) |
 ## Backtracking
