@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1275-validate-binary-tree-nodes](https://github.com/Akshay7995/Leetcode-solving/tree/master/1275-validate-binary-tree-nodes) |
+| [1396-count-servers-that-communicate](https://github.com/Akshay7995/Leetcode-solving/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Akshay7995/Leetcode-solving/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1275-validate-binary-tree-nodes](https://github.com/Akshay7995/Leetcode-solving/tree/master/1275-validate-binary-tree-nodes) |
+| [1396-count-servers-that-communicate](https://github.com/Akshay7995/Leetcode-solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshay7995/Leetcode-solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Akshay7995/Leetcode-solving/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1025-minimum-cost-for-tickets](https://github.com/Akshay7995/Leetcode-solving/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Akshay7995/Leetcode-solving/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1256-rank-transform-of-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/Akshay7995/Leetcode-solving/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akshay7995/Leetcode-solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1449-print-words-vertically](https://github.com/Akshay7995/Leetcode-solving/tree/master/1449-print-words-vertically) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akshay7995/Leetcode-solving/tree/master/0169-majority-element) |
+| [1396-count-servers-that-communicate](https://github.com/Akshay7995/Leetcode-solving/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Akshay7995/Leetcode-solving/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Akshay7995/Leetcode-solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Akshay7995/Leetcode-solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -552,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Akshay7995/Leetcode-solving/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Akshay7995/Leetcode-solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshay7995/Leetcode-solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1791-richest-customer-wealth](https://github.com/Akshay7995/Leetcode-solving/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/Akshay7995/Leetcode-solving/tree/master/1876-map-of-highest-peak) |
@@ -575,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1275-validate-binary-tree-nodes](https://github.com/Akshay7995/Leetcode-solving/tree/master/1275-validate-binary-tree-nodes) |
+| [1396-count-servers-that-communicate](https://github.com/Akshay7995/Leetcode-solving/tree/master/1396-count-servers-that-communicate) |
 ## Graph
 |  |
 | ------- |
