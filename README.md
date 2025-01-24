@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Akshay7995/Leetcode-solving/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [0820-find-eventual-safe-states](https://github.com/Akshay7995/Leetcode-solving/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1275-validate-binary-tree-nodes](https://github.com/Akshay7995/Leetcode-solving/tree/master/1275-validate-binary-tree-nodes) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akshay7995/Leetcode-solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Akshay7995/Leetcode-solving/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/Akshay7995/Leetcode-solving/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1275-validate-binary-tree-nodes](https://github.com/Akshay7995/Leetcode-solving/tree/master/1275-validate-binary-tree-nodes) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Akshay7995/Leetcode-solving/tree/master/0820-find-eventual-safe-states) |
 | [1275-validate-binary-tree-nodes](https://github.com/Akshay7995/Leetcode-solving/tree/master/1275-validate-binary-tree-nodes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshay7995/Leetcode-solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Akshay7995/Leetcode-solving/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -637,4 +640,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshay7995/Leetcode-solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Akshay7995/Leetcode-solving/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
