@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akshay7995/Leetcode-solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshay7995/Leetcode-solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1585-the-kth-factor-of-n](https://github.com/Akshay7995/Leetcode-solving/tree/master/1585-the-kth-factor-of-n) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
@@ -647,4 +648,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Akshay7995/Leetcode-solving/tree/master/0820-find-eventual-safe-states) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Akshay7995/Leetcode-solving/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
