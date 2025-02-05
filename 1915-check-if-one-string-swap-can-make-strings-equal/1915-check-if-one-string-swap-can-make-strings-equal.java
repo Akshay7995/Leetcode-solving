@@ -1,6 +1,6 @@
 class Solution {
     public boolean areAlmostEqual(String s1, String s2) {
-        HashMap<Character,Integer> hm = new HashMap<>();
+        /*HashMap<Character,Integer> hm = new HashMap<>();
         for(char w : s1.toCharArray()){
             hm.put(w,hm.getOrDefault(w,0)+1);
         }
@@ -23,6 +23,24 @@ class Solution {
         if(count==0 || count==2){
             return true;
         }
+        return  false;*/
+        if(!sortString(s1).equals(sortString(s2))){
+            return false;
+        }
+        int count = 0;
+        for(int i=0;i<s1.length();i++){
+            if(s1.charAt(i)!=s2.charAt(i)){
+                count+=1;
+            }
+        }
+        if(count==0 || count==2){
+            return true;
+        }
         return  false;
+    }
+    public static String sortString(String input) {
+        char[] charArray = input.toCharArray();
+        Arrays.sort(charArray);
+        return new String(charArray);
     }
 }
