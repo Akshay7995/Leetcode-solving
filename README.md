@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Akshay7995/Leetcode-solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Akshay7995/Leetcode-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Akshay7995/Leetcode-solving/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/Akshay7995/Leetcode-solving/tree/master/2434-design-a-number-container-system) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Akshay7995/Leetcode-solving/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Akshay7995/Leetcode-solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Akshay7995/Leetcode-solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Akshay7995/Leetcode-solving/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2434-design-a-number-container-system](https://github.com/Akshay7995/Leetcode-solving/tree/master/2434-design-a-number-container-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2164-two-best-non-overlapping-events](https://github.com/Akshay7995/Leetcode-solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Akshay7995/Leetcode-solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2329-maximum-product-after-k-increments](https://github.com/Akshay7995/Leetcode-solving/tree/master/2329-maximum-product-after-k-increments) |
+| [2434-design-a-number-container-system](https://github.com/Akshay7995/Leetcode-solving/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Akshay7995/Leetcode-solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Akshay7995/Leetcode-solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Akshay7995/Leetcode-solving/tree/master/2868-continuous-subarrays) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Ordered Set
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/Akshay7995/Leetcode-solving/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Akshay7995/Leetcode-solving/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
