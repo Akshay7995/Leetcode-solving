@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Akshay7995/Leetcode-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Akshay7995/Leetcode-solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/Akshay7995/Leetcode-solving/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/Akshay7995/Leetcode-solving/tree/master/2448-count-number-of-bad-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Akshay7995/Leetcode-solving/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Akshay7995/Leetcode-solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2329-maximum-product-after-k-increments](https://github.com/Akshay7995/Leetcode-solving/tree/master/2329-maximum-product-after-k-increments) |
 | [2358-number-of-ways-to-split-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Akshay7995/Leetcode-solving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2448-count-number-of-bad-pairs](https://github.com/Akshay7995/Leetcode-solving/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Akshay7995/Leetcode-solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Akshay7995/Leetcode-solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1502-construct-k-palindrome-strings](https://github.com/Akshay7995/Leetcode-solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Akshay7995/Leetcode-solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Akshay7995/Leetcode-solving/tree/master/2300-construct-string-with-repeat-limit) |
+| [2448-count-number-of-bad-pairs](https://github.com/Akshay7995/Leetcode-solving/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Akshay7995/Leetcode-solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Akshay7995/Leetcode-solving/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akshay7995/Leetcode-solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshay7995/Leetcode-solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1585-the-kth-factor-of-n](https://github.com/Akshay7995/Leetcode-solving/tree/master/1585-the-kth-factor-of-n) |
+| [2448-count-number-of-bad-pairs](https://github.com/Akshay7995/Leetcode-solving/tree/master/2448-count-number-of-bad-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
