@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshay7995/Leetcode-solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Akshay7995/Leetcode-solving/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/Akshay7995/Leetcode-solving/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Akshay7995/Leetcode-solving/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Akshay7995/Leetcode-solving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Akshay7995/Leetcode-solving/tree/master/0042-trapping-rain-water) |
