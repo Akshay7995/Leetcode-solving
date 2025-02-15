@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Akshay7995/Leetcode-solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Akshay7995/Leetcode-solving/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Akshay7995/Leetcode-solving/tree/master/0041-first-missing-positive) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshay7995/Leetcode-solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Akshay7995/Leetcode-solving/tree/master/0031-next-permutation) |
