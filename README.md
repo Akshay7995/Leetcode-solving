@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1580-shuffle-the-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Akshay7995/Leetcode-solving/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1651-shuffle-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/1651-shuffle-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Akshay7995/Leetcode-solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1791-richest-customer-wealth](https://github.com/Akshay7995/Leetcode-solving/tree/master/1791-richest-customer-wealth) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1025-minimum-cost-for-tickets](https://github.com/Akshay7995/Leetcode-solving/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Akshay7995/Leetcode-solving/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/Akshay7995/Leetcode-solving/tree/master/1250-longest-common-subsequence) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Akshay7995/Leetcode-solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2001-jump-game-vii](https://github.com/Akshay7995/Leetcode-solving/tree/master/2001-jump-game-vii) |
 | [2164-two-best-non-overlapping-events](https://github.com/Akshay7995/Leetcode-solving/tree/master/2164-two-best-non-overlapping-events) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1477-product-of-the-last-k-numbers](https://github.com/Akshay7995/Leetcode-solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1603-running-sum-of-1d-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshay7995/Leetcode-solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2001-jump-game-vii](https://github.com/Akshay7995/Leetcode-solving/tree/master/2001-jump-game-vii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Akshay7995/Leetcode-solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshay7995/Leetcode-solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akshay7995/Leetcode-solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/Akshay7995/Leetcode-solving/tree/master/1585-the-kth-factor-of-n) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Akshay7995/Leetcode-solving/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Akshay7995/Leetcode-solving/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
