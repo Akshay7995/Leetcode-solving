@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-maximum-ascending-subarray-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2048-build-array-from-permutation](https://github.com/Akshay7995/Leetcode-solving/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Akshay7995/Leetcode-solving/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/Akshay7995/Leetcode-solving/tree/master/2164-two-best-non-overlapping-events) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1585-the-kth-factor-of-n](https://github.com/Akshay7995/Leetcode-solving/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Akshay7995/Leetcode-solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Akshay7995/Leetcode-solving/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Akshay7995/Leetcode-solving/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Akshay7995/Leetcode-solving/tree/master/2556-convert-the-temperature) |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/Akshay7995/Leetcode-solving/tree/master/1585-the-kth-factor-of-n) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Akshay7995/Leetcode-solving/tree/master/2491-smallest-even-multiple) |
 ## Memoization
 |  |
