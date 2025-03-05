@@ -656,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Akshay7995/Leetcode-solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/Akshay7995/Leetcode-solving/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Akshay7995/Leetcode-solving/tree/master/2491-smallest-even-multiple) |
+| [2556-convert-the-temperature](https://github.com/Akshay7995/Leetcode-solving/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Akshay7995/Leetcode-solving/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Akshay7995/Leetcode-solving/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Akshay7995/Leetcode-solving/tree/master/2802-find-the-punishment-number-of-an-integer) |
