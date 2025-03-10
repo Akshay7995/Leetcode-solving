@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3427-special-array-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Akshay7995/Leetcode-solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2868-continuous-subarrays](https://github.com/Akshay7995/Leetcode-solving/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Akshay7995/Leetcode-solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3483-alternating-groups-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
 |  |
