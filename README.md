@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Akshay7995/Leetcode-solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Akshay7995/Leetcode-solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/2107-find-unique-binary-string) |
+| [2187-vowels-of-all-substrings](https://github.com/Akshay7995/Leetcode-solving/tree/master/2187-vowels-of-all-substrings) |
 | [2232-adding-spaces-to-a-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Akshay7995/Leetcode-solving/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Akshay7995/Leetcode-solving/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Akshay7995/Leetcode-solving/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2001-jump-game-vii](https://github.com/Akshay7995/Leetcode-solving/tree/master/2001-jump-game-vii) |
 | [2164-two-best-non-overlapping-events](https://github.com/Akshay7995/Leetcode-solving/tree/master/2164-two-best-non-overlapping-events) |
+| [2187-vowels-of-all-substrings](https://github.com/Akshay7995/Leetcode-solving/tree/master/2187-vowels-of-all-substrings) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Akshay7995/Leetcode-solving/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
 |  |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Akshay7995/Leetcode-solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2187-vowels-of-all-substrings](https://github.com/Akshay7995/Leetcode-solving/tree/master/2187-vowels-of-all-substrings) |
 | [2448-count-number-of-bad-pairs](https://github.com/Akshay7995/Leetcode-solving/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Akshay7995/Leetcode-solving/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Akshay7995/Leetcode-solving/tree/master/2556-convert-the-temperature) |
@@ -841,4 +844,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Akshay7995/Leetcode-solving/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Combinatorics
+|  |
+| ------- |
+| [2187-vowels-of-all-substrings](https://github.com/Akshay7995/Leetcode-solving/tree/master/2187-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
