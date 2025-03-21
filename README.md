@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Akshay7995/Leetcode-solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Akshay7995/Leetcode-solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akshay7995/Leetcode-solving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Akshay7995/Leetcode-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Akshay7995/Leetcode-solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/Akshay7995/Leetcode-solving/tree/master/2434-design-a-number-container-system) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2145-grid-game](https://github.com/Akshay7995/Leetcode-solving/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/Akshay7995/Leetcode-solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akshay7995/Leetcode-solving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akshay7995/Leetcode-solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshay7995/Leetcode-solving/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Akshay7995/Leetcode-solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/2107-find-unique-binary-string) |
 | [2187-vowels-of-all-substrings](https://github.com/Akshay7995/Leetcode-solving/tree/master/2187-vowels-of-all-substrings) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akshay7995/Leetcode-solving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Akshay7995/Leetcode-solving/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Akshay7995/Leetcode-solving/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1275-validate-binary-tree-nodes](https://github.com/Akshay7995/Leetcode-solving/tree/master/1275-validate-binary-tree-nodes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshay7995/Leetcode-solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Akshay7995/Leetcode-solving/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akshay7995/Leetcode-solving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Akshay7995/Leetcode-solving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Akshay7995/Leetcode-solving/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -832,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Akshay7995/Leetcode-solving/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Akshay7995/Leetcode-solving/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akshay7995/Leetcode-solving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Akshay7995/Leetcode-solving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Number Theory
 |  |
