@@ -698,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2610-closest-prime-numbers-in-range](https://github.com/Akshay7995/Leetcode-solving/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Akshay7995/Leetcode-solving/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Akshay7995/Leetcode-solving/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/Akshay7995/Leetcode-solving/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Akshay7995/Leetcode-solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -863,4 +864,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2187-vowels-of-all-substrings](https://github.com/Akshay7995/Leetcode-solving/tree/master/2187-vowels-of-all-substrings) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Akshay7995/Leetcode-solving/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
