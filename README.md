@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Akshay7995/Leetcode-solving/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1651-shuffle-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/Akshay7995/Leetcode-solving/tree/master/1656-count-good-triplets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Akshay7995/Leetcode-solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1791-richest-customer-wealth](https://github.com/Akshay7995/Leetcode-solving/tree/master/1791-richest-customer-wealth) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Akshay7995/Leetcode-solving/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -868,5 +869,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Akshay7995/Leetcode-solving/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/Akshay7995/Leetcode-solving/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
