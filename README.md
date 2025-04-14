@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Akshay7995/Leetcode-solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Akshay7995/Leetcode-solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/2107-find-unique-binary-string) |
+| [2122-count-special-quadruplets](https://github.com/Akshay7995/Leetcode-solving/tree/master/2122-count-special-quadruplets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akshay7995/Leetcode-solving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Akshay7995/Leetcode-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Akshay7995/Leetcode-solving/tree/master/2300-construct-string-with-repeat-limit) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2058-concatenation-of-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/2107-find-unique-binary-string) |
+| [2122-count-special-quadruplets](https://github.com/Akshay7995/Leetcode-solving/tree/master/2122-count-special-quadruplets) |
 | [2145-grid-game](https://github.com/Akshay7995/Leetcode-solving/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/Akshay7995/Leetcode-solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -870,5 +872,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Akshay7995/Leetcode-solving/tree/master/1656-count-good-triplets) |
+| [2122-count-special-quadruplets](https://github.com/Akshay7995/Leetcode-solving/tree/master/2122-count-special-quadruplets) |
 | [2998-count-symmetric-integers](https://github.com/Akshay7995/Leetcode-solving/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
