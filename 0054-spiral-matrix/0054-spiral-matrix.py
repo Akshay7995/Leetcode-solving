@@ -1,26 +1,24 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
-        top = 0
-        bottom = len(matrix)-1
-        left = 0
-        right = len(matrix[0])-1
-        ans=[]
-        while left<=right and top<=bottom :
-            for i in range (left,right+1):
-                ans.append(matrix[top][i])
-            top +=1
-            for i in range (top,bottom+1):
-                ans.append(matrix[i][right])
-            right -=1
-
-            if top<=bottom:
-                for i in range(right,left-1,-1):
-                    ans.append(matrix[bottom][i])
-                bottom -=1
-            
-            if left<=right:
-                for i in range(bottom,top-1,-1):
-                    ans.append(matrix[i][left])
-                left +=1
-            
+        ans = []
+        row_start = 0
+        row_end = len(matrix)-1
+        col_start = 0
+        col_end = len(matrix[1])-1
+        while row_start <= row_end and col_start <= col_end :
+            for i in range(col_start,col_end+1):
+                ans.append(matrix[row_start][i])
+            row_start+=1
+            for i in range(row_start,row_end+1):
+                ans.append(matrix[i][col_end])
+            col_end-=1
+            if row_start<=row_end:
+                for i in range(col_end,col_start-1,-1):
+                    ans.append(matrix[row_end][i])
+                row_end-=1
+            if col_start <= col_end:
+                for i in range(row_end,row_start-1,-1):
+                    ans.append(matrix[i][col_start])
+                col_start+=1
+        
         return ans
