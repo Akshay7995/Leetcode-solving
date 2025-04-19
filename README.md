@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshay7995/Leetcode-solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akshay7995/Leetcode-solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshay7995/Leetcode-solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Akshay7995/Leetcode-solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Akshay7995/Leetcode-solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akshay7995/Leetcode-solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0861-flipping-an-image](https://github.com/Akshay7995/Leetcode-solving/tree/master/0861-flipping-an-image) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Akshay7995/Leetcode-solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1449-print-words-vertically](https://github.com/Akshay7995/Leetcode-solving/tree/master/1449-print-words-vertically) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Akshay7995/Leetcode-solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Akshay7995/Leetcode-solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Akshay7995/Leetcode-solving/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/2058-concatenation-of-array) |
