@@ -1,32 +1,29 @@
 class Solution:
     def generateMatrix(self, n: int) -> List[List[int]]:
-        rows = n
-        cols = n
-        arr = [[0 for _ in range(cols)] for _ in range(rows)]
-        top = 0
-        bottom = len(arr)-1
-        left = 0
-        right = len(arr[0])-1
-
-        val=1
-        while top<=bottom and left<=right:
-            for i in range(left,right+1):
-                arr[top][i] = val
+        matrix = [[0 for _ in range(n)]for _ in range(n)]
+        val = 1
+        row_start = 0
+        row_end = len(matrix)-1
+        col_start = 0
+        col_end = len(matrix[0])-1
+        while row_start<=row_end and col_start<=col_end:
+            for i in range(col_start,col_end+1):
+                matrix[row_start][i] = val
                 val+=1
-            top+=1
-            for i in range(top,bottom+1):
-                arr[i][right] = val
+            row_start+=1
+            for i in range(row_start,row_end+1):
+                matrix[i][col_end]=val
                 val+=1
-            right-=1
-            if top<=bottom:
-                for i in range(right,left-1,-1):
-                    arr[bottom][i] = val
+            col_end-=1
+            if row_start<=row_end:
+                for i in range(col_end,col_start-1,-1):
+                    matrix[row_end][i] = val
                     val+=1
-                bottom-=1
-            if left<=right:
-                for i in range(bottom,top-1,-1):
-                    arr[i][left] = val
+                row_end-=1
+            if col_start<=col_end:
+                for i in range(row_end,row_start-1,-1):
+                    matrix[i][col_start] = val
                     val+=1
-                left+=1
-
-        return arr 
+                col_start+=1
+            
+        return matrix
