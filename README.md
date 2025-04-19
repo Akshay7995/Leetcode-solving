@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/Akshay7995/Leetcode-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Akshay7995/Leetcode-solving/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/Akshay7995/Leetcode-solving/tree/master/0854-making-a-large-island) |
+| [0861-flipping-an-image](https://github.com/Akshay7995/Leetcode-solving/tree/master/0861-flipping-an-image) |
 | [0878-shifting-letters](https://github.com/Akshay7995/Leetcode-solving/tree/master/0878-shifting-letters) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Akshay7995/Leetcode-solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Akshay7995/Leetcode-solving/tree/master/0907-koko-eating-bananas) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Akshay7995/Leetcode-solving/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Akshay7995/Leetcode-solving/tree/master/0392-is-subsequence) |
+| [0861-flipping-an-image](https://github.com/Akshay7995/Leetcode-solving/tree/master/0861-flipping-an-image) |
 | [0958-sort-array-by-parity-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Akshay7995/Leetcode-solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/Akshay7995/Leetcode-solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/Akshay7995/Leetcode-solving/tree/master/0657-robot-return-to-origin) |
+| [0861-flipping-an-image](https://github.com/Akshay7995/Leetcode-solving/tree/master/0861-flipping-an-image) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Akshay7995/Leetcode-solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1449-print-words-vertically](https://github.com/Akshay7995/Leetcode-solving/tree/master/1449-print-words-vertically) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Akshay7995/Leetcode-solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Akshay7995/Leetcode-solving/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Akshay7995/Leetcode-solving/tree/master/0854-making-a-large-island) |
+| [0861-flipping-an-image](https://github.com/Akshay7995/Leetcode-solving/tree/master/0861-flipping-an-image) |
 | [1396-count-servers-that-communicate](https://github.com/Akshay7995/Leetcode-solving/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshay7995/Leetcode-solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshay7995/Leetcode-solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -815,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Akshay7995/Leetcode-solving/tree/master/0645-set-mismatch) |
+| [0861-flipping-an-image](https://github.com/Akshay7995/Leetcode-solving/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshay7995/Leetcode-solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Akshay7995/Leetcode-solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/Akshay7995/Leetcode-solving/tree/master/2509-minimize-xor) |
