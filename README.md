@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Akshay7995/Leetcode-solving/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshay7995/Leetcode-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akshay7995/Leetcode-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0287-find-the-duplicate-number) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshay7995/Leetcode-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Akshay7995/Leetcode-solving/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshay7995/Leetcode-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Akshay7995/Leetcode-solving/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Akshay7995/Leetcode-solving/tree/master/0198-house-robber) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Akshay7995/Leetcode-solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Akshay7995/Leetcode-solving/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshay7995/Leetcode-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Akshay7995/Leetcode-solving/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/Akshay7995/Leetcode-solving/tree/master/0861-flipping-an-image) |
