@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akshay7995/Leetcode-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Akshay7995/Leetcode-solving/tree/master/0367-valid-perfect-square) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Akshay7995/Leetcode-solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akshay7995/Leetcode-solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0540-single-element-in-a-sorted-array) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/Akshay7995/Leetcode-solving/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Akshay7995/Leetcode-solving/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Akshay7995/Leetcode-solving/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Akshay7995/Leetcode-solving/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Akshay7995/Leetcode-solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
