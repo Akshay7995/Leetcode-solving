@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3429-special-array-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Akshay7995/Leetcode-solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/3483-alternating-groups-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2164-two-best-non-overlapping-events](https://github.com/Akshay7995/Leetcode-solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2187-vowels-of-all-substrings](https://github.com/Akshay7995/Leetcode-solving/tree/master/2187-vowels-of-all-substrings) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Akshay7995/Leetcode-solving/tree/master/2562-count-ways-to-build-good-strings) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
