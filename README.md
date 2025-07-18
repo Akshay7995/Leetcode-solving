@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Akshay7995/Leetcode-solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/2107-find-unique-binary-string) |
 | [2122-count-special-quadruplets](https://github.com/Akshay7995/Leetcode-solving/tree/master/2122-count-special-quadruplets) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akshay7995/Leetcode-solving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Akshay7995/Leetcode-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Akshay7995/Leetcode-solving/tree/master/2300-construct-string-with-repeat-limit) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2122-count-special-quadruplets](https://github.com/Akshay7995/Leetcode-solving/tree/master/2122-count-special-quadruplets) |
 | [2145-grid-game](https://github.com/Akshay7995/Leetcode-solving/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/Akshay7995/Leetcode-solving/tree/master/2164-two-best-non-overlapping-events) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akshay7995/Leetcode-solving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/2232-adding-spaces-to-a-string) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Akshay7995/Leetcode-solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Akshay7995/Leetcode-solving/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2164-two-best-non-overlapping-events](https://github.com/Akshay7995/Leetcode-solving/tree/master/2164-two-best-non-overlapping-events) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Akshay7995/Leetcode-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Akshay7995/Leetcode-solving/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Akshay7995/Leetcode-solving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshay7995/Leetcode-solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Akshay7995/Leetcode-solving/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Akshay7995/Leetcode-solving/tree/master/2164-two-best-non-overlapping-events) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Akshay7995/Leetcode-solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Akshay7995/Leetcode-solving/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2329-maximum-product-after-k-increments](https://github.com/Akshay7995/Leetcode-solving/tree/master/2329-maximum-product-after-k-increments) |
