@@ -1,6 +1,6 @@
 class Solution:
     def makeFancyString(self, s: str) -> str:
-        l = len(s)
+        """l = len(s)
         count = 1
         ans = []
         ans.append(s[0])
@@ -14,4 +14,11 @@ class Solution:
                 ans.append(s[i])
         
         result = "".join(ans)
-        return result
+        return result"""
+
+        ans = []
+        for c in s:
+            if len(ans)>=2 and ans[-1]==c and ans[-2]==c:
+                continue
+            ans.append(c)
+        return "".join(ans)
