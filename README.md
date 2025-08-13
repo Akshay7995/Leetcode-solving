@@ -749,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/Akshay7995/Leetcode-solving/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Akshay7995/Leetcode-solving/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Akshay7995/Leetcode-solving/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Akshay7995/Leetcode-solving/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Akshay7995/Leetcode-solving/tree/master/1031-add-to-array-form-of-integer) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/Akshay7995/Leetcode-solving/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Akshay7995/Leetcode-solving/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Akshay7995/Leetcode-solving/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Akshay7995/Leetcode-solving/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
