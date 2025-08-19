@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2358-number-of-ways-to-split-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Akshay7995/Leetcode-solving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Akshay7995/Leetcode-solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Akshay7995/Leetcode-solving/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Akshay7995/Leetcode-solving/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Akshay7995/Leetcode-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Akshay7995/Leetcode-solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2187-vowels-of-all-substrings](https://github.com/Akshay7995/Leetcode-solving/tree/master/2187-vowels-of-all-substrings) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Akshay7995/Leetcode-solving/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Akshay7995/Leetcode-solving/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Akshay7995/Leetcode-solving/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Akshay7995/Leetcode-solving/tree/master/2556-convert-the-temperature) |
