@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Akshay7995/Leetcode-solving/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Akshay7995/Leetcode-solving/tree/master/0645-set-mismatch) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Akshay7995/Leetcode-solving/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Akshay7995/Leetcode-solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/Akshay7995/Leetcode-solving/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Akshay7995/Leetcode-solving/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/Akshay7995/Leetcode-solving/tree/master/0861-flipping-an-image) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Akshay7995/Leetcode-solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Akshay7995/Leetcode-solving/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/Akshay7995/Leetcode-solving/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/Akshay7995/Leetcode-solving/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Akshay7995/Leetcode-solving/tree/master/0861-flipping-an-image) |
 | [1396-count-servers-that-communicate](https://github.com/Akshay7995/Leetcode-solving/tree/master/1396-count-servers-that-communicate) |
