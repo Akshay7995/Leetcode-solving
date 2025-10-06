@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshay7995/Leetcode-solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Akshay7995/Leetcode-solving/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Akshay7995/Leetcode-solving/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/0033-search-in-rotated-sorted-array) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Akshay7995/Leetcode-solving/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Akshay7995/Leetcode-solving/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Akshay7995/Leetcode-solving/tree/master/0042-trapping-rain-water) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Akshay7995/Leetcode-solving/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0179-largest-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Akshay7995/Leetcode-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1448-maximum-69-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/1448-maximum-69-number) |
