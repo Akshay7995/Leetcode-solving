@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Akshay7995/Leetcode-solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshay7995/Leetcode-solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1612-avoid-flood-in-the-city](https://github.com/Akshay7995/Leetcode-solving/tree/master/1612-avoid-flood-in-the-city) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Akshay7995/Leetcode-solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Akshay7995/Leetcode-solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Akshay7995/Leetcode-solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akshay7995/Leetcode-solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Akshay7995/Leetcode-solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/Akshay7995/Leetcode-solving/tree/master/1612-avoid-flood-in-the-city) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Akshay7995/Leetcode-solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Akshay7995/Leetcode-solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/2107-find-unique-binary-string) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Akshay7995/Leetcode-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/1603-running-sum-of-1d-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/Akshay7995/Leetcode-solving/tree/master/1612-avoid-flood-in-the-city) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Akshay7995/Leetcode-solving/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1651-shuffle-string](https://github.com/Akshay7995/Leetcode-solving/tree/master/1651-shuffle-string) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1448-maximum-69-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Akshay7995/Leetcode-solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Akshay7995/Leetcode-solving/tree/master/1502-construct-k-palindrome-strings) |
+| [1612-avoid-flood-in-the-city](https://github.com/Akshay7995/Leetcode-solving/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Akshay7995/Leetcode-solving/tree/master/1917-maximum-average-pass-ratio) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Akshay7995/Leetcode-solving/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Akshay7995/Leetcode-solving/tree/master/2300-construct-string-with-repeat-limit) |
@@ -688,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0789-kth-largest-element-in-a-stream](https://github.com/Akshay7995/Leetcode-solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Akshay7995/Leetcode-solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshay7995/Leetcode-solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1612-avoid-flood-in-the-city](https://github.com/Akshay7995/Leetcode-solving/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Akshay7995/Leetcode-solving/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Akshay7995/Leetcode-solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Akshay7995/Leetcode-solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
