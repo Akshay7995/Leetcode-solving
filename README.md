@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Akshay7995/Leetcode-solving/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Akshay7995/Leetcode-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Akshay7995/Leetcode-solving/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/Akshay7995/Leetcode-solving/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Akshay7995/Leetcode-solving/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Akshay7995/Leetcode-solving/tree/master/0861-flipping-an-image) |
 | [0878-shifting-letters](https://github.com/Akshay7995/Leetcode-solving/tree/master/0878-shifting-letters) |
@@ -774,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Akshay7995/Leetcode-solving/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Akshay7995/Leetcode-solving/tree/master/0367-valid-perfect-square) |
+| [0830-largest-triangle-area](https://github.com/Akshay7995/Leetcode-solving/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Akshay7995/Leetcode-solving/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Akshay7995/Leetcode-solving/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Akshay7995/Leetcode-solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -969,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Akshay7995/Leetcode-solving/tree/master/0830-largest-triangle-area) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Akshay7995/Leetcode-solving/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Combinatorics
 |  |
