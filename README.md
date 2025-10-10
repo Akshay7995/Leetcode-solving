@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Akshay7995/Leetcode-solving/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Akshay7995/Leetcode-solving/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Akshay7995/Leetcode-solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Akshay7995/Leetcode-solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Akshay7995/Leetcode-solving/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Akshay7995/Leetcode-solving/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
