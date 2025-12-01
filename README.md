@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3483-alternating-groups-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshay7995/Leetcode-solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Akshay7995/Leetcode-solving/tree/master/3643-zero-array-transformation-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Akshay7995/Leetcode-solving/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Akshay7995/Leetcode-solving/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/Akshay7995/Leetcode-solving/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Akshay7995/Leetcode-solving/tree/master/3227-find-missing-and-repeated-values) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshay7995/Leetcode-solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Akshay7995/Leetcode-solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
